@@ -1,4 +1,4 @@
-# Product Assortment Intelligence & Basket Analysis
+# Product Assortment Intelligence & Basket Analysis:
 
 Association-rule mining on retail transactions to find product affinities, separate genuine associations from merely popular items, and compare assortment across stores. Includes an interactive Streamlit dashboard.
 
